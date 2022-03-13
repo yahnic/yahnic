@@ -1,6 +1,6 @@
-### Hi there 👋 Am Yahnic Chigozie
+### Hi  👋 I'm Yahnic Chigozie
 
-   Skills Set
+  ## Skills And Experence
 
 - 🔭 I’m currently working on MEAN Stack App
 - 🌱 I’m currently learning React.js
