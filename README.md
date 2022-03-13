@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **React And Angular**
 
-- 📫 How to reach me **ndiitahyahnic@gmail.com**
+- 📫 How to reach me **nditahyahnic@gmail.com**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
